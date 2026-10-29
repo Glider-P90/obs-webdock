@@ -1,1 +1,10 @@
-* Project: obs-webdock
+#+AUTHOR: Pierre Étienne Charles Schebath CAZOULAT akka 
+ #+DATE: <2026-10-29 jeu..>
+ #+EMAIL: pierre.schebath@lilo.org
+
+ :PROPERTIES:
+ :project-name: obs-webdock
+ :github-project: [[https://github.com/Glider-P90/obs-webdock][Retrouvez le projet sur GitHub]]
+ :project-version: 0.0
+ :END:
+
